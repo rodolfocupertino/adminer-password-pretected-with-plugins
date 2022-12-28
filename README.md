@@ -11,13 +11,14 @@ Adminer with custmization:
 
 ````
 git clone https://github.com/rsilvabr/adminer-password-pretected-with-plugins.git 
-
+move adminer-<version>.php to a dir without web access
+Ex: 
+mv admminer-4-8.1php /var/www/
 ````
 2. Change index.php like the following:
-
 ````
 nano index.php 
-on line 44 change or not the path to adminer php file
+# on line 44 change (or not) the path to adminer php file
 include "../adminer-4.8.1.php";
 ````
 
