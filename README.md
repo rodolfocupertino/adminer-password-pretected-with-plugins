@@ -1,0 +1,1 @@
+# adminer-password-pretected-with-plugins
