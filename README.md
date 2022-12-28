@@ -50,3 +50,6 @@ File structure has to be like the following one:
 ````
 
 [Online Demo](https://demo.rodolfosilva.me/adminer/)
+    
+### Contribution
+Feel free to create forks and pull requests. :)
