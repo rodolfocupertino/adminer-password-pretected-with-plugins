@@ -44,7 +44,7 @@ File structure has to be like the following one:
 - plugins
     - plugin.php
     - ...
-../../adminer-<version>.php #This file must be in a folder with no web access
+../../adminer-<version>.php
 - index.php
 - adminer.css
 ````
