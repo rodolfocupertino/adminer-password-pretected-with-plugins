@@ -19,10 +19,10 @@ Customizations:
 git clone https://github.com/rsilvabr/adminer-password-pretected-with-plugins.git .
 ````
 
-move adminer-<version>.php to a dir with no web access
+Move adminer-<version>.php to a dir with no web access
 Ex: 
 ````
-mv admminer-4-8.1php /var/www/
+mv admminer-4-8.1.php /var/www/
 ````
 2. Change the index.php file like the following:
 ````
