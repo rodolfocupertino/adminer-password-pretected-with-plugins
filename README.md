@@ -28,7 +28,7 @@ mv admminer-4-8.1.php /var/www/
 ````
 nano index.php 
 ````
-On line 44 change the path to adminer-<version>.php file
+In line 44 change the path to adminer-<version>.php file
 ````
 include "../adminer-4.8.1.php";
 ````
