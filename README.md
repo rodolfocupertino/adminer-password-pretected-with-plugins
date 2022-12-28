@@ -22,6 +22,17 @@ nano index.php
 include "../adminer-4.8.1.php";
 ````
 
+
+## Update sha1 password hash
+````
+nano plugins/PasswordProtection.php
+
+In **line 7** of the plugin code, **replace** the predefined hash with **your** sha1 password **hash**.
+
+To generate your own sha1 password hash, you can use online tools like [sha1-online](http://www.sha1-online.com/).
+
+````
+
 File structure has to be like the following one:
 ````
 - plugins
