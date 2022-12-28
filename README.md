@@ -30,3 +30,7 @@ File structure has to be like the following one:
 ../../adminer-<version>.php #This file must be in a folder with no web access
 - index.php
 ````
+
+## Online Demo
+
+[https://demo.rodolfosilva.me/adminer/]
