@@ -1,9 +1,9 @@
 # adminer-password-pretected-with-plugins
 
 Adminer with custmization: 
-- Plugins: [https://www.adminer.org/plugins/]
-- Password Protected: Forked Plugin  [https://github.com/rsilvabr/adminer-plugin-PasswordProtection]
-- Dark Theme by Pepa Linha [http://webdream.cz] version 2.0.1
+- Plugins: https://www.adminer.org/plugins/
+- Password Protected: Forked Plugin  https://github.com/rsilvabr/adminer-plugin-PasswordProtection
+- Dark Theme by Pepa Linha http://webdream.cz version 2.0.1
 
 ## How to use
 
@@ -33,4 +33,4 @@ File structure has to be like the following one:
 
 ## Online Demo
 
-[https://demo.rodolfosilva.me/adminer/]
+https://demo.rodolfosilva.me/adminer/
